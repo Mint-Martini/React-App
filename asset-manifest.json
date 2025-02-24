@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/React-App/static/css/main.3ef1f879.chunk.css",
-    "main.js": "/React-App/static/js/main.497a7b91.chunk.js",
-    "main.js.map": "/React-App/static/js/main.497a7b91.chunk.js.map",
-    "runtime-main.js": "/React-App/static/js/runtime-main.9d990d36.js",
-    "runtime-main.js.map": "/React-App/static/js/runtime-main.9d990d36.js.map",
-    "static/css/2.379a8125.chunk.css": "/React-App/static/css/2.379a8125.chunk.css",
-    "static/js/2.b41a99f1.chunk.js": "/React-App/static/js/2.b41a99f1.chunk.js",
-    "static/js/2.b41a99f1.chunk.js.map": "/React-App/static/js/2.b41a99f1.chunk.js.map",
+    "main.css": "/React-App/static/css/main.8e87c16a.chunk.css",
+    "main.js": "/React-App/static/js/main.1b98c0e6.chunk.js",
+    "main.js.map": "/React-App/static/js/main.1b98c0e6.chunk.js.map",
+    "runtime-main.js": "/React-App/static/js/runtime-main.2d2bc139.js",
+    "runtime-main.js.map": "/React-App/static/js/runtime-main.2d2bc139.js.map",
+    "static/css/2.112e65b5.chunk.css": "/React-App/static/css/2.112e65b5.chunk.css",
+    "static/js/2.1de3090c.chunk.js": "/React-App/static/js/2.1de3090c.chunk.js",
+    "static/js/2.1de3090c.chunk.js.map": "/React-App/static/js/2.1de3090c.chunk.js.map",
     "index.html": "/React-App/index.html",
-    "static/css/2.379a8125.chunk.css.map": "/React-App/static/css/2.379a8125.chunk.css.map",
-    "static/css/main.3ef1f879.chunk.css.map": "/React-App/static/css/main.3ef1f879.chunk.css.map",
-    "static/js/2.b41a99f1.chunk.js.LICENSE.txt": "/React-App/static/js/2.b41a99f1.chunk.js.LICENSE.txt",
+    "static/css/2.112e65b5.chunk.css.map": "/React-App/static/css/2.112e65b5.chunk.css.map",
+    "static/css/main.8e87c16a.chunk.css.map": "/React-App/static/css/main.8e87c16a.chunk.css.map",
+    "static/js/2.1de3090c.chunk.js.LICENSE.txt": "/React-App/static/js/2.1de3090c.chunk.js.LICENSE.txt",
     "static/media/Capone1.9077d5bb.jpg": "/React-App/static/media/Capone1.9077d5bb.jpg",
     "static/media/Capone2.dce39b93.jpg": "/React-App/static/media/Capone2.dce39b93.jpg",
     "static/media/Capone4.edd11672.jpg": "/React-App/static/media/Capone4.edd11672.jpg",
     "static/media/Capone5.94432f89.jpg": "/React-App/static/media/Capone5.94432f89.jpg",
     "static/media/Capone6.b101a95a.jpg": "/React-App/static/media/Capone6.b101a95a.jpg",
-    "static/media/Capone7.366a85cc.jpg": "/React-App/static/media/Capone7.366a85cc.jpg"
+    "static/media/Capone7.366a85cc.jpg": "/React-App/static/media/Capone7.366a85cc.jpg",
+    "static/media/Capone8.fae9a074.jpg": "/React-App/static/media/Capone8.fae9a074.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d990d36.js",
-    "static/css/2.379a8125.chunk.css",
-    "static/js/2.b41a99f1.chunk.js",
-    "static/css/main.3ef1f879.chunk.css",
-    "static/js/main.497a7b91.chunk.js"
+    "static/js/runtime-main.2d2bc139.js",
+    "static/css/2.112e65b5.chunk.css",
+    "static/js/2.1de3090c.chunk.js",
+    "static/css/main.8e87c16a.chunk.css",
+    "static/js/main.1b98c0e6.chunk.js"
   ]
 }
