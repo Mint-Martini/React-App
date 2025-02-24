@@ -7,6 +7,7 @@ import p4 from "./Images/Capone4.jpg";
 import p5 from "./Images/Capone5.jpg";
 import p6 from "./Images/Capone6.jpg";
 import p7 from "./Images/Capone7.jpg";
+import p8 from "./Images/Capone8.jpg";
 
 
 
@@ -21,7 +22,7 @@ class CaponesCorner extends React.Component {
                   <img class="photo" src={p5} alt="" />
                   <img class="photo" src={p6} alt="" />
                   <img class="photo" src={p7} alt="" />
-              
+                  <img class="photo" src={p8} alt="" />
           </div>
         )
     }
